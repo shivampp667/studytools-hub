@@ -2,7 +2,7 @@ export const SITE_CONFIG = {
   name: 'StudyTools Hub',
   tagline: 'Free Tools for Students & Careers',
   description: 'Fast, simple, and free online calculators and career tools for students, job seekers, and everyday math. Built for performance and privacy.',
-  url: import.meta.env.VITE_SITE_URL || 'https://studytoolshub.com',
+  url: import.meta.env.VITE_SITE_URL || 'https://studytools-hub-mu.vercel.app',
   author: 'StudyTools Hub Team',
   twitterHandle: '@studytoolshub',
   navLinks: [

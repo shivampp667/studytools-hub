@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://studytoolshub.com/sitemap.xml
+Sitemap: https://studytools-hub-mu.vercel.app/sitemap.xml
